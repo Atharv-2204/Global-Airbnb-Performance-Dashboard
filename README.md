@@ -8,9 +8,9 @@ A 3-page interactive Power BI dashboard analysing Airbnb's global growth, city-l
 
 > Full interactive `.pbix` file is too large for GitHub — see download link below. Screenshots of all 3 pages included in this repo.
 
-![Overview Page](screenshots/01_overview.png)
-![Ratings Page](screenshots/02_ratings.png)
-![Reviews Page](screenshots/03_reviews.png)
+![Overview Page](01_overview.png)
+![Ratings Page](02_ratings.png)
+![Reviews Page](03_reviews.png)
 
 ---
 
@@ -18,7 +18,7 @@ A 3-page interactive Power BI dashboard analysing Airbnb's global growth, city-l
 
 The `.pbix` file (~205MB) exceeds GitHub's file size limits and is hosted externally instead:
 
-**🔗 [Download from Google Drive](PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE)**
+**🔗 [Download from Google Drive](https://drive.google.com/file/d/1TwZKCvxnDcbBgOOwmEapPM-xCHOFwgQm/view?usp=drive_link)**
 
 Open the downloaded file in **Power BI Desktop** (free from Microsoft) to interact with filters, slicers, and drill-throughs across all 3 pages.
 
@@ -35,7 +35,7 @@ To tell the story of Airbnb's platform evolution and market performance through 
 
 ## 🗄️ Dataset
 
-**Source:** [Maven Analytics — Data Playground](https://mavenanalytics.io/data-playground) — Airbnb dataset
+**Source:** [Maven Analytics — Data Playground](https://mavenanalytics.io/data-playground) — Airbnb Listing & Reviews Dataset
 
 | Detail | Info |
 |---|---|
@@ -102,10 +102,10 @@ To tell the story of Airbnb's platform evolution and market performance through 
 
 ## 🙋 About
 
-Built by **[Your Name]** as part of a data analyst portfolio project.
+Built by **[Atharv Dhole]** as part of a data analyst portfolio project.
 
-- 🔗 LinkedIn: [your-linkedin-url]
-- 📧 Email: your@email.com
+- 🔗 LinkedIn: [linkedin.com/in/atharv-dhole/]
+- 📧 Email: atharvdhole22@email.com
 
 ---
 
