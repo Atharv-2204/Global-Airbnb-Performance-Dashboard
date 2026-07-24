@@ -104,7 +104,7 @@ To tell the story of Airbnb's platform evolution and market performance through 
 
 Built by **[Atharv Dhole]** as part of a data analyst portfolio project.
 
-- 🔗 LinkedIn: [linkedin.com/in/atharv-dhole/]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/atharv-dhole/]
 - 📧 Email: atharvdhole22@email.com
 
 ---
